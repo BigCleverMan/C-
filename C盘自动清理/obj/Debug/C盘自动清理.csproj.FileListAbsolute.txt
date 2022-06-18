@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\C盘自动清理\bin\Debug\C盘自动清理.exe.config
+C:\Users\Administrator\source\repos\C盘自动清理\bin\Debug\C盘自动清理.exe
+C:\Users\Administrator\source\repos\C盘自动清理\bin\Debug\C盘自动清理.pdb
+C:\Users\Administrator\source\repos\C盘自动清理\obj\Debug\C盘自动清理.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\C盘自动清理\obj\Debug\C盘自动清理.F_Main.resources
+C:\Users\Administrator\source\repos\C盘自动清理\obj\Debug\C盘自动清理.Properties.Resources.resources
+C:\Users\Administrator\source\repos\C盘自动清理\obj\Debug\C盘自动清理.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\C盘自动清理\obj\Debug\C盘自动清理.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C盘自动清理\obj\Debug\C盘自动清理.exe
+C:\Users\Administrator\source\repos\C盘自动清理\obj\Debug\C盘自动清理.pdb
